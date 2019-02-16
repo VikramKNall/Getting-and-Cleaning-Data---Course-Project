@@ -1,4 +1,4 @@
-This code book summarizes the resulting data fields in tidy.txt
+This code book summarizes for tidy.txt
 
 subject – ID of test subject
 
